@@ -1,20 +1,12 @@
 var generateBtn = document.querySelector("#generate");
 
 
-// add button to the top so that when I click the button it starts the window prompt
-
-// Write password to the #password input
 function writePassword() {
   window.alert("Welcome to your personal password generator! Please answer the following prompts for characters you would like to include in your password!")
 
   var length = window.prompt("How long would you like your password to be? Please choose any number between 8 and 128.")
-  if (length <= 8 || length >= 128){
+  if (length >= 8 || length <= 128){
     // add it to the password
-
-
-
-
-
 
 
   } else (window.prompt("Your password needs to be between 8 and 128 characters!"))
