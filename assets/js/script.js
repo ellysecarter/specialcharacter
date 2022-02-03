@@ -43,7 +43,7 @@ function writePassword() {
     generatePassword();
   } else {
     window.alert("Your password needs to be between 8 and 128 characters");
-      writePassword()
+      writePassword();
     ;
   }
 }
