@@ -21,6 +21,8 @@ Deployed Application: https://ellysecarter.github.io/specialcharacter/
 
 Use this website to make unique passwords for you. Start by clicking the "Generate Password" button. First you choose between 8 and 128 characters, then you can select to use uppercase, lowercase, numeric, or special characters. After that, the system creates their unique password and displays it on the screen as well as shows it in the console.
 
+If you would like to create multiple passwords, the console will save all of your past passwords until you refresh the page. 
+
 ## Technologies Used
 * HTML
 * CSS
