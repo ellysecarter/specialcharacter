@@ -3,7 +3,7 @@
 
 ## A website to help you create unique passwords! 
 
-![screenshot](Assets/images/Screenshot.png)
+![screenshot](assets/images/screenshot.png)
 
 Deployed Application: https://ellysecarter.github.io/specialcharacter/
 
